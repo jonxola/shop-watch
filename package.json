@@ -1,0 +1,15 @@
+{
+    "private": true,
+    "type": "module",
+    "name": "shop-watch",
+    "version": "1.0.0",
+    "description": "Monitor Shopify stores for new inventory.",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "axios": "^0.21.1",
+        "console-stamp": "^3.0.3",
+        "toml": "^3.0.0"
+    }
+}

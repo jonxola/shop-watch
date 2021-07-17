@@ -1,0 +1,16 @@
+# wait time between requests (milliseconds)
+delay = 5000
+
+# how long to wait for requests before timing out (milliseconds) (0 = no timeout)
+timeout = 0
+
+# Discord webhook address for messages
+webhook = ''
+
+# Discord embed colors (decimal)
+colors = { new = 1751964, restock = 15844367 }
+
+# list of Shopify URLs to monitor
+sites = [
+    ''
+]
